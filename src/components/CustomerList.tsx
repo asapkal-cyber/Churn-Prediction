@@ -71,3 +71,4 @@ const CustomerList = ({ customers, selectedId, onSelect }: CustomerListProps) =>
 };
 
 export default CustomerList;
+ 
